@@ -2,7 +2,7 @@
 
 - [ ] [How to have a download approachg for the reesume](https://www.youtube.com/watch?v=aO6PfjC_5SU)
 - [ ] Add Facebook, LinkedIn url here
-- [ ]
+- [ ] Just a start
 
 # What I've learned
 
